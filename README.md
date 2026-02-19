@@ -33,12 +33,20 @@ This dashboard serves as a crucial tool for the rail operator’s management tea
 # Project 2
 
 **Title:**
+Agency Data Interrogation and Manipulation
 
 **SQL Code:**
+[Agency SQL Code](https://github.com/Donaaron1/github.io/blob/main/Agency.SQL)
 
 **SQL Skills Used:**
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
 **Project Description:**
 
-**Technology used: SQL Server**
 
+**Technology used:** SQL Server
+
+# Project 3
