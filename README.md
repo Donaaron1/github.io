@@ -5,7 +5,7 @@
 **Tools Used:** Power BI (Power Query, DAX, Data Modelling, Filters, slicers, Visualization), SQL (DDL, DML, DQL).
 
 **Project Description:** This project involved analysing transaction data of a regional rail operator to improve customer satisfaction and operational efficiency. It is designed to provide a comprehensive overview of key performance metrics. The dashboard allows stakeholders to easily identify operational bottlenecks, refine timetables, and implement targeted strategies to improve on-time performance and passenger satisfaction. The dashboard includes the following features:
-Payment Method Preferences: Highlights the preferred method of payment, providing insight into customers’ purchase behaviour.
+Payment Method Preferences: Highlights the preferred payment method, providing insight into customers’ purchase behaviour.
 Ticket Type: Displays the revenue generated from each ticket type.
 Sales by Purchase Channel: Breakdown of the total ticket sales by purchase channel.
 Refund Request VS Journey Status: Visual representation of the relationship between journey status and refund request.
